@@ -1,0 +1,9 @@
+- 👋 Soy Teresa Márquez, comunicóloga y antropóloga. Académica TC del Dpto. de Ciencias Sociales y Políticas de la Ibero.
+- Me interesan temas sociología de la cultura, especialmente cultura material, TI, cultura visual, humanidades digitales y ciencia abierta. 
+- Estoy interesada en colaboraciones sobre desarrollo de software libre en apoyo a los procesos de trabajo dentro de la investigación científica.
+- 📫 teresa.marquez@ibero.mx
+
+<!---
+tmarquez-mx/tmarquez-mx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
