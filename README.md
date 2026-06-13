@@ -1,4 +1,4 @@
-- 👋 Soy comunicóloga y antropóloga. Académica TC del Dpto. de Ciencias Sociales y Políticas de la Univ. Iberoamericana, México.  https://socialesypoliticas.ibero.mx/TeresaMarquez/     |      https://orcid.org/0000-0003-0737-6484
+- 👋 Soy comunicóloga y antropóloga. Académica TC en el Dpto. de Ciencias Sociales y Políticas de la Universidad Iberoamericana Ciudad de México  https://socialesypoliticas.ibero.mx/TeresaMarquez/     |      https://orcid.org/0000-0003-0737-6484
 - Trabajo la línea de investigación en sociología de la cultura, especialmente temas de cultura material, TI, cultura visual, humanidades digitales y ciencia abierta. 
 - Me interesan colaboraciones sobre desarrollo de software libre en apoyo a los procesos de trabajo dentro de la investigación científica, a fin de abrirlos al trabajo colaborativo y a los principios éticos de la ciencia abierta.
 
