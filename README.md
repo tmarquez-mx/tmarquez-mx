@@ -20,7 +20,9 @@ Me interesan colaboraciones sobre desarrollo de software libre en apoyo a la inv
 | [Picona](https://github.com/tmarquez-mx/picona-extension) | Libreta de campo digital asistida por IA. Memos cualitativos con contexto, red de conexiones y base de conocimiento propia. Extensión de Chrome. | En producción (beta) |
 | [Biblio-retratos](https://github.com/tmarquez-mx/biblio-retratos) | Aplicación web que conecta a usuarios de Zotero con su base bibliográfica para generar analíticas y visualizaciones de sus prácticas de literacidad a lo largo del tiempo. Proyecto de Humanidades Digitales financiado por la DINVP, Ibero. | En producción |
 | [Audioscript contextual](https://github.com/tmarquez-mx/audioscript) | Propuesta de herramienta sociotécnica para la transcripción inmersiva potenciada por IA en investigación cualitativa. | Prototipo conceptual |
-
+| [BenPro](https://github.com/tmarquez-mx/BenPro) | Asistente de programación académica de posgrado. Tablero visual que detecta choques de horario, lee las preferencias de cada docente y autoprograma por cohorte. Aplicación web. | En producción |
+| [rubrica-dig-pos](https://github.com/tmarquez-mx/rubrica-dig-pos) | Rúbrica digital para la evaluación de aspirantes a posgrado: ponderación por criterios, control de dictámenes y becas, y lectura cualitativa asistida por IA. Aplicación web. | En producción |
+| [GNVIC](https://github.com/tmarquez-mx/GNVIC) | Generador de narrativas visuales interactivas y críticas. Artefacto epistémico que traduce posiciones teóricas en narrativa visual y revela su subtexto al cierre. | Prototipo |
 ---
 
 ## Herramientas y entornos
