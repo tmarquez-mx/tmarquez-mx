@@ -17,7 +17,7 @@ Me interesan colaboraciones sobre desarrollo de software libre en apoyo a la inv
 | Proyecto | Descripción | Estado |
 |---|---|---|
 | [ChatLog](https://github.com/tmarquez-mx/ChatLog) | Bitácora para el registro, organización y gestión transparente y trazable de interacciones con LLMs en contextos académicos. Extensión de Chrome. | En producción |
-| [Picona](https://github.com/tmarquez-mx/picona-extension) | Libreta de campo digital asistida por IA. Memos cualitativos con contexto, red de conexiones y base de conocimiento propia. Extensión de Chrome. | En producción (beta) |
+| [Picona](https://github.com/tmarquez-mx/picona-extension) | Libreta de campo digital asistida por IA. Memos cualitativos con contexto, red de conexiones y base de conocimiento propia. Extensión de Chrome. | En producción |
 | [Biblio-retratos](https://github.com/tmarquez-mx/biblio-retratos) | Aplicación web que conecta a usuarios de Zotero con su base bibliográfica para generar analíticas y visualizaciones de sus prácticas de literacidad a lo largo del tiempo. Proyecto de Humanidades Digitales financiado por la DINVP, Ibero. | En producción |
 | [Audioscript contextual](https://github.com/tmarquez-mx/audioscript) | Propuesta de herramienta sociotécnica para la transcripción inmersiva potenciada por IA en investigación cualitativa. | Prototipo conceptual |
 | [BenPro](https://github.com/tmarquez-mx/BenPro) | Asistente de programación académica de posgrado. Tablero visual que detecta choques de horario, lee las preferencias de cada docente y autoprograma por cohorte. Aplicación web. | En producción |
