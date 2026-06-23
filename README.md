@@ -1,4 +1,4 @@
-# Teresa Márquez · tmarquez-mx
+# Teresa Márquez 
 
 Comunicóloga y antropóloga. Académica de tiempo completo en el Departamento de Ciencias Sociales y Políticas de la Universidad Iberoamericana Ciudad de México.
 
